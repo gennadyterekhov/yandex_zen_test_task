@@ -66,7 +66,6 @@ function getRandomHeight(appConfig) {
 
 function main() {
     if (process.argv.length < 3) {
-        // console.error('usage: node script.js <random [width] [height]|csv_field_filename> [--config=application_config]');
         console.error('usage: node script.js <random [width] [height]|csv_field_filename>');
         process.exit();
     }

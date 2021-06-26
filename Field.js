@@ -19,16 +19,6 @@ export class Field {
         }
     }
 
-    showNeighboursMatrix() {
-        for (let y = 0; y < this.height; y += 1) {
-            let line = '';
-            for (let x = 0; x < this.width; x += 1) {
-                line += `${this.neighboursMatrix[y][x]} `;
-            }
-            console.log(line);
-        }
-    }
-
     play() {
         let iteration = 0;
         let prePreviousState = [];
