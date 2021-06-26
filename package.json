@@ -2,6 +2,10 @@
   "name": "yandex_zen_test_task",
   "version": "1.0.0",
   "description": "https://yandex.ru/jobs/vacancies/interns/intern_frontdev_zen/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gennadyterekhov/yandex_zen_test_task.git"
+  },
   "main": "script.js",
   "type": "module",
   "scripts": {
@@ -9,6 +13,6 @@
     "start": "node script.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gennady Terekhov",
   "license": "ISC"
 }
