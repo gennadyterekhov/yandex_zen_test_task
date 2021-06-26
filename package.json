@@ -1,0 +1,13 @@
+{
+  "name": "yandex_zen_test_task",
+  "version": "1.0.0",
+  "description": "https://yandex.ru/jobs/vacancies/interns/intern_frontdev_zen/",
+  "main": "Field.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
